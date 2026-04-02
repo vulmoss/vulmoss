@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @vulmoss
-- 👀 I’m interested in code /web security/Reverse security
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me
+# 👋 Hi there, I'm thel0ner
+
+## 🛸 About Me
+- 🔭 I'm currently working on **security-geek-quest** (aka my cyberspace adventure)
+- 🌱 I'm diving into **binary exploitation & CTF** — follow me if you dare
+- ⚡ Fun fact: I talk to servers in binary, but they never reply.
 
 <!---
 vulmoss/vulmoss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
